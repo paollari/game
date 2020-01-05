@@ -1,0 +1,42 @@
+* {
+	font-family: "Poppins", Sans-Serif;
+}
+main {
+	height:300px;
+}
+
+h1 {
+	text-transform: uppercase;
+	font-size: 46pt;
+margin:auto;
+text-align: center;
+background-color: lightgrey;
+}
+
+p{
+	display:inline-block;
+	padding: 24pt;
+  background-color: gray;
+  color: white;
+  border: lightgray;
+  border: 10px;
+}
+
+button{
+  display: flex;
+  flex-direction: column;
+  color: black;
+  font-size: 24pt;
+  text-align: center;
+  margin: auto;
+}
+
+footer {
+	margin-top: 30px;
+	border: solid grey 50px;
+	padding:10px;
+	margin-bottom:20px;
+	background-color:grey;
+	color:white;}
+
+
