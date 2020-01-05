@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  <head lang="en">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>art history quiz</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  
+  <body>
+    <main>
+    <h1> Art History</h1>
+    <div>
+    <p> This is a brief art history where your knowledge of artists will be put to the test.
+    This particular test is designed to expose you to artists you might not have heard of before.</p>
+    </div>
+    <br>
+    <button type="button">Click to start!</button>
+    <footer>
+  
+    </main>
+  </body>
+</html>
