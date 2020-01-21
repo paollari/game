@@ -1,0 +1,48 @@
+* {
+	font-family: "Poppins", Sans-Serif;
+  
+}
+main{
+  height:300px;
+  display: flex;
+  flex-direction: column;
+  background-color: gray;
+}
+img{
+  margin: auto;
+}
+form {
+	background-color:grey;
+	color:white;
+	padding:10px;
+}
+
+fieldset {
+	border:none;
+  text-align: center;
+}
+h1{
+  text-align: center;
+}
+h2 {
+	font-size:30px;
+	text-align:center;
+}
+
+button {
+  padding-top: 10px;
+  font-size: 20pt;
+  display: flex;
+  color: black;
+  text-align: center;
+  margin: auto; 
+}
+
+footer {
+	margin-top: 30px;
+	border:1px solid grey;
+	padding:10px;
+	margin-bottom:10px;
+	background-color:grey;
+	color:white;
+}
