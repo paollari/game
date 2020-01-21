@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>first question</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <main>
+  <img src="https://assets.simpleviewinc.com/simpleview/image/fetch/q_60/https://assets.simpleviewinc.com/simpleview/image/upload/crm/sonomavalley/Screen-Shot-2019-05-21-at-4.31.29-PM_4EB2CA9E-BD76-4DB8-88311F85264073E2_db58e17b-2214-4b55-aa6979f687293510.png" alt="an abstract painting" height="300" width="300">
+  <body>
+    <form class ="question-form" action="submit" method="post">
+
+    <h1>1.) Who painted this?</h1>
+    <p> Answer: Bernice Bing</p>
+    <p> Bernice Bing is a little known but important artist from the 1960's Bay Area art scene. Bernice was an American born artist of Chinese decent. She was also gay. Her paintings are quite expressive. </p>
+   <p> Here are some links to find out more about Bernice Bing.</p>
+   <ul>
+     <li> <a href="https://datebook.sfchronicle.com/art-exhibits/what-if-bernice-bings-art-had-been-celebrated-and-supported"</li> link one </a>
+     <li> <a href = "https://www.artsy.net/article/artsy-editorial-overlooked-abstract-expressionist-bernice-bing-searched-identity-painting"</li> link two </a>
+     </ul>
+    <div>
+      
+    </div>
+    </form>
+    </fieldset>
+    <div>          
+    <button type="button"> Next!</button>
+    </div>
+  </body>
+  <footer>
+    <h2>Progress Status</h2>
+
+<p>Question 1 out of 10 </p>
+<p>10% correct</p>
+  </footer>
+  </main>
+</html>
